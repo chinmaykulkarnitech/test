@@ -7,10 +7,6 @@ if sum<5:
     print("sum is less than 5")
 
 else:
-<<<<<<< HEAD
-    print("sum is greater than 10")
-
-print("I am chinmay kulkarni practiciing the github")
-=======
     print("sum is greater than 5")
->>>>>>> parent of c590b2a (revert for change)
+
+print("I am chinmay kulkarni")
