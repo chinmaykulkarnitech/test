@@ -7,4 +7,6 @@ if sum<10:
     print("sum is less than 10")
 
 else:
-    print("sum is greater than 11")
+    print("sum is greater than 10")
+
+print("I am chinmay kulkarni practiciing the github")
