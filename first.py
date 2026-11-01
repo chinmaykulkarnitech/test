@@ -3,8 +3,8 @@ num2=int(input("Enter second number"))
 
 sum=num1+num2
 
-if sum<5:
-    print("sum is less than 5")
+if sum<10:
+    print("sum is less than 10")
 
 else:
-    print("sum is greater than 5")
+    print("sum is greater than 11")
